@@ -16,3 +16,4 @@
         return arr.map(element=>element*2)
     }
 }
+doubled([1,5,8])
